@@ -14,16 +14,28 @@
 •	Abrir anaconda navegator e instalar spyder
 
 3.	Instalar theano
-•	Abrir anaconda prompt e instalar theano: pip install theano
+•	Abrir anaconda prompt e instalar theano: 
+```c
+pip install theano
+```
 
 4.	Instalar tensorflow
-•	Abrir anaconda prompt e instalar theano: pip install tensorflow
+•	Abrir anaconda prompt e instalar theano:
+```c
+pip install tensorflow
+```
 
 5.	Instalar keras
-•	Abrir anaconda prompt e instalar keras: pip install keras
+•	Abrir anaconda prompt e instalar keras:
+```c
+pip install keras
+```
 
 6.	Atualizar todos os programas recém instalados e outros pacotes do Anaconda
-•	Abrir anaconda prompt e atualizar: conda update –all
+•	Abrir anaconda prompt e atualizar:
+```c
+conda update –all
+```
 
 7.	Instalar o Vstudio 2015
 
@@ -41,20 +53,34 @@
 11.	Instalar GPU para utilização no Tensorflow
 •	https://www.tensorflow.org/install/install_windows
 •	Criar ambiente conda com nome tensorflow (abrir anaconda prompt)
-	conda create -n tensorflow python=3.5
+```c
+conda create -n tensorflow python=3.5
+```
 •	Ativar ambiente conda (abrir anaconda prompt)
-	activate tensorflow
+```c
+activate tensorflow
+```
 •	Atualizar tensorflow (abrir anaconda prompt)
-	pip install --ignore-installed --upgrade tensorflow
+```cpip install --ignore-installed --upgrade tensorflow
+```
 •	Instalar GPU versão do tensorflow
-	pip install --ignore-installed --upgrade tensorflow-gpu 
+```c
+pip install --ignore-installed --upgrade tensorflow-gpu 
+```
 •	Testar sucesso instalação digitando os comandos abaixo no spyder
-	Abrir spyder (phynton)
-	import tensorflow as tf
+Abrir spyder (phynton)
+```c
+import tensorflow as tf
+```
+```c
 hello = tf.constant('Hello, TensorFlow!')
 sess = tf.Session()
 print(sess.run(hello))
-•	Se a instalação foi concluída com sucesso a saída (Console Phyton - Spyder) irá retornar Hello, TensorFlow!
+```
+•	Se a instalação foi concluída com sucesso a saída (Console Phyton - Spyder) irá retornar 
+```c
+Hello, TensorFlow!
+```
 
 12.	Criar a rede CNN baseado na ZFnet
 
