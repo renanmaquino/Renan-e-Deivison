@@ -7,8 +7,7 @@
 
 ## Index
 
-
-1.	Instalar anaconda phyton
+- [1.	Instalar anaconda phyton]
 •	 https://www.continuum.io/downloads)
 2.	Instalar spyder
 •	Abrir anaconda navegator e instalar spyder
