@@ -52,6 +52,7 @@ conda update –all
 
 11.	Instalar GPU para utilização no Tensorflow
 •	https://www.tensorflow.org/install/install_windows
+
 •	Criar ambiente conda com nome tensorflow (abrir anaconda prompt)
 ```c
 conda create -n tensorflow python=3.5
