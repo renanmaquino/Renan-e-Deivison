@@ -7,27 +7,37 @@
 
 ## Index
 
-- [1.	Instalar anaconda phyton]
+1.	Instalar anaconda phyton
 •	 https://www.continuum.io/downloads)
+
 2.	Instalar spyder
 •	Abrir anaconda navegator e instalar spyder
+
 3.	Instalar theano
 •	Abrir anaconda prompt e instalar theano: pip install theano
+
 4.	Instalar tensorflow
 •	Abrir anaconda prompt e instalar theano: pip install tensorflow
+
 5.	Instalar keras
 •	Abrir anaconda prompt e instalar keras: pip install keras
+
 6.	Atualizar todos os programas recém instalados e outros pacotes do Anaconda
 •	Abrir anaconda prompt e atualizar: conda update –all
+
 7.	Instalar o Vstudio 2015
+
 8.	Instalar cuda_8.0.61_win10
+
 9.	Instalar cuda_8.0.61.2_windows
+
 10.	Incluir caminho no Path: 
 •	edit system variables
 •	Environment variables
 •	System variables
 •	Path Edit
 •	New (inserir na última linha caminho que está instalado o cuda ex.: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\bin)
+
 11.	Instalar GPU para utilização no Tensorflow
 •	https://www.tensorflow.org/install/install_windows
 •	Criar ambiente conda com nome tensorflow (abrir anaconda prompt)
