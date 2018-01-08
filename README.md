@@ -69,8 +69,7 @@ pip install --ignore-installed --upgrade tensorflow
 ```c
 pip install --ignore-installed --upgrade tensorflow-gpu 
 ```
-- Testar sucesso instalação digitando os comandos abaixo no spyder
-Abrir spyder (phynton)
+- Testar sucesso instalação digitando os comandos abaixo no spyder (phynton)
 ```c
 import tensorflow as tf
 ```
