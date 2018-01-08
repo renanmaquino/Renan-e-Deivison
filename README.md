@@ -62,7 +62,8 @@ conda create -n tensorflow python=3.5
 activate tensorflow
 ```
 •	Atualizar tensorflow (abrir anaconda prompt)
-```cpip install --ignore-installed --upgrade tensorflow
+```c
+pip install --ignore-installed --upgrade tensorflow
 ```
 •	Instalar GPU versão do tensorflow
 ```c
