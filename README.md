@@ -1,4 +1,4 @@
-# Criar CNN - Convolutional Neural Network para identificacão de cones com TensorFlow e Keras
+# Criar CNN - Convolutional Neural Network para identificacão de carros usando Keras e TensorFlow
  - Passo a passo de como criar uma CNN (Convolutional Neural Network) para identificação de carro usando Keras e Tensor Flow baseado nas redes AlexNet e ZFNet usando Windows 10. Este arquivo contempla a instalação do Anaconda, treino e predição de imagens após treino ( baseado na ALEXNET e ZFNET)
  
 # Autores: Renan Mantuanelli de Aquino e Deivison Augusto da Vitória
